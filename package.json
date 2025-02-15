@@ -35,8 +35,8 @@
     "vite": "^6.1.0"
   },
   "resolutions": {
-  "auth0-react/react": "19.0.0",
-  "auth0-react/react-dom": "19.0.0",
-  "auth0-react/react-router-dom": "6.29.0"
-}
+    "auth0-react/react": "19.0.0",
+    "auth0-react/react-dom": "19.0.0",
+    "auth0-react/react-router-dom": "6.29.0"
+  } 
 }
